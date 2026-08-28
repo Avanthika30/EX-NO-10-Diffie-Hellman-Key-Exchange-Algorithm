@@ -1,5 +1,8 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
-
+## NAME: AVANTHIKA.B
+## REG.NO: 212224040039
+## DEPT: CSE III YEAR
+## DATE: 21.08.2026
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
 
